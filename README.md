@@ -25,7 +25,8 @@
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Github" height="35" width="35" src="https://img.icons8.com/fluency/344/ffffff/github.png" />
+ />
 </div><br>
 
   <div align="center"><br>
